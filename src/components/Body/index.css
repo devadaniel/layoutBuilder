@@ -1,0 +1,85 @@
+/* Write your CSS here */
+
+.body-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 3;
+}
+.left-nav-container {
+  background-color: #cbd5e1;
+  align-self: stretch;
+  background-size: cover;
+  width: 500px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 5px;
+}
+.left-nav-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.list-items {
+  list-style-type: none;
+  padding-left: 10px;
+  margin-top: 0px;
+}
+
+.item {
+  color: #64748b;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.content-body-container {
+  background-color: #f1f5f9;
+  background-size: cover;
+  padding: 20px;
+  align-self: stretch;
+  width: 500px;
+  margin-top: 5px;
+}
+.content-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.content-paragraph {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 200px;
+}
+
+.right-nav-container {
+  background-color: #cbd5e1;
+  background-size: cover;
+  padding: 20px;
+  align-self: stretch;
+  width: 500px;
+  margin-top: 5px;
+}
+
+.right-nav-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.add-1-box {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border: 1px solid #475569;
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding-top: 40px;
+  margin-left: 10px;
+}

@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.responsive-configuration-container {
+  background-color: #475569;
+  background-size: cover;
+  padding: 20px;
+}
+.configuration-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 300px;
+  margin-top: 0px;
+}
+
+.controller-container {
+  margin-left: 300px;
+}
+
+.content-label {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+
+.content-container {
+  margin-bottom: 20px;
+}
+
+.left-navbar-container {
+  margin-bottom: 20px;
+}
